@@ -15,7 +15,6 @@
   </a>
 </p>
 
-
 ### 👨🏻‍💻 About Me
 
 - 🧑‍🎓 Kyoto University
@@ -27,9 +26,11 @@
 - 👥 Community
     - 🤖 [KaiRA](https://kyoto-kaira.github.io/) : 4th Leader (2023-2024)
 - 📩 Contact
-    - <a href="https://x.com/matsuda-tkm"><img src="https://img.shields.io/badge/-matsuda_tkm-000000.svg?logo=X&style=nginx"></a>
+    - <a href="https://x.com/matsuda_tkm"><img src="https://img.shields.io/badge/-@matsuda_tkm-000000.svg?logo=X&style=nginx"></a>
     - <a href="https://qiita.com/matsuda_tkm"><img src="https://img.shields.io/badge/-Qiita-000000.svg?logo=Qiita&style=nginx"></a>
     - <img src="https://img.shields.io/badge/-LinkedIn-0A66C2.svg?logo=LinkedIn&style=nginx">
+
+[![My Skills](https://skillicons.dev/icons?i=py,pytorch,vscode,html,css,js,docker,git,github,latex,notion,apple,linux,windows)](https://skillicons.dev)
 
 ## Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=matsuda-tkm&theme=nord_dark)
