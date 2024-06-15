@@ -19,7 +19,7 @@
 
 - 🧑‍🎓 Kyoto University
     - 🌤️ Climate Physics Laboratory
-    - 🌧️ Detecting Weather Front in the Asia-Pacific Resiong Using Machine Learning
+    - 🌧️ Detecting Weather Front in the Asia-Pacific Resion Using Machine Learning
 - 🧑‍💻 AI Engineer
     - 🏢 [Deepcraft](https://deepcraft.jp/) : Chief AI Engieer (Project Manager)
     - 🏢 [AVILEN](https://avilen.co.jp/) : DS-Hub
@@ -30,7 +30,7 @@
     - <a href="https://qiita.com/matsuda_tkm"><img src="https://img.shields.io/badge/-Qiita-000000.svg?logo=Qiita&style=nginx"></a>
     - <img src="https://img.shields.io/badge/-LinkedIn-0A66C2.svg?logo=LinkedIn&style=nginx">
 
-[![My Skills](https://skillicons.dev/icons?i=py,pytorch,vscode,html,css,js,docker,git,github,latex,notion,apple,linux,windows)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,pytorch,vscode,html,css,js,docker,git,github,latex,notion,apple,linux,windows&perline=7)](https://skillicons.dev)
 
 ## Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=matsuda-tkm&theme=nord_dark)
