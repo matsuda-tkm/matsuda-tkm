@@ -5,7 +5,7 @@
     <img height="20" src="https://komarev.com/ghpvc/?username=matsuda-tkm" />
   </a>
   <a href="https://github.com/matsuda-tkm">
-    <img height="20" src="https://img.shields.io/github/followers/matsuda-tkm?label=follow&logo=github&style=flat" />
+    <img height="20" src="https://img.shields.io/github/followers/matsuda-tkm?label=followers&logo=github&style=flat" />
   </a>
   <a href="http://qiita.com/matsuda_tkm">
     <img height="20" src="https://qiita-badge.apiapi.app/s/matsuda_tkm/posts.svg" />
