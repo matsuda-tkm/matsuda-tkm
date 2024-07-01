@@ -30,7 +30,7 @@
     - <a href="https://qiita.com/matsuda_tkm"><img src="https://img.shields.io/badge/-Qiita-000000.svg?logo=Qiita&style=nginx"></a>
     - <img src="https://img.shields.io/badge/-LinkedIn-0A66C2.svg?logo=LinkedIn&style=nginx">
 
-[![My Skills](https://skillicons.dev/icons?i=py,pytorch,vscode,html,css,js,docker,git,github,latex,notion,apple,linux,windows&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,pytorch,vscode,html,css,js,docker,git,github,latex,notion,apple,linux,windows,aws,terraform&perline=4)](https://skillicons.dev)
 
 ## Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=matsuda-tkm&theme=nord_dark)
