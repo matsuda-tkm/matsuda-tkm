@@ -15,6 +15,12 @@
   <a href="http://qiita.com/matsuda_tkm">
     <img height="20" src="https://qiita-badge.apiapi.app/s/matsuda_tkm/contributions.svg" />
   </a>
+  <a href="https://zenn.dev/matsuda_tkm">
+    <img src="https://badgen.org/img/zenn/matsuda_tkm/likes?style=plastic" alt="Likes" />
+  </a>
+  <a href="https://zenn.dev/matsuda_tkm">
+    <img src="https://badgen.org/img/zenn/matsuda_tkm/articles?style=plastic" alt="Articles" />
+  </a>
 </p>
 
 ### 👨🏻‍💻 About Me
@@ -29,10 +35,18 @@
     - 🤖 [KaiRA](https://kyoto-kaira.github.io/) : 4th Leader (2023-2024)
 - 📩 Contact
     - <a href="https://x.com/matsuda_tkm"><img src="https://img.shields.io/badge/-@matsuda_tkm-000000.svg?logo=X&style=nginx"></a>
-    - <a href="https://qiita.com/matsuda_tkm"><img src="https://img.shields.io/badge/-Qiita-000000.svg?logo=Qiita&style=nginx"></a>
     - <img src="https://img.shields.io/badge/-LinkedIn-0A66C2.svg?logo=LinkedIn&style=nginx">
+- 📝 Article
+    - <a href="https://qiita.com/matsuda_tkm"><img src="https://img.shields.io/badge/-Qiita-000000.svg?logo=Qiita&style=nginx"></a>
+    - <a href="https://zenn.dev/matsuda_tkm"><img src="https://img.shields.io/badge/-Zenn-000000.svg?logo=Zenn&style=nginx"></a> 
+- 💪 Skills
+    - Python (4 years)
+      - Numpy, Pandas, Scikit-learn, PyTorch, Flask, etc...
+    - AWS, Terraform (several months)
+      - Lambda, ECS, SageMaker, etc...
+    - Git, Docker (1 year)
 
-[![My Skills](https://skillicons.dev/icons?i=py,pytorch,vscode,html,css,js,docker,git,github,latex,notion,apple,linux,windows,aws,terraform&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,pytorch,vscode,html,css,js,docker,git,github,latex,notion,apple,linux,windows,aws,terraform&perline=8)](https://skillicons.dev)
 
 ## Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=matsuda-tkm&theme=nord_dark)
