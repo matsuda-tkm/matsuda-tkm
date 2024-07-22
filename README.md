@@ -9,11 +9,11 @@
   <a href="https://github.com/matsuda-tkm">
     <img height="20" src="https://img.shields.io/github/followers/matsuda-tkm?label=followers&logo=github&style=flat" />
   </a>
-  <a href="http://qiita.com/matsuda_tkm">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/matsuda_tkm/posts.svg" />
+  <a href="https://qiita.com/matsuda_tkm">
+    <img src="https://badgen.org/img/qiita/matsuda_tkm/contributions?style=plastic" alt="Contributions" />
   </a>
-  <a href="http://qiita.com/matsuda_tkm">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/matsuda_tkm/contributions.svg" />
+  <a href="https://qiita.com/matsuda_tkm">
+    <img src="https://badgen.org/img/qiita/matsuda_tkm/articles?style=plastic" alt="Articles" />
   </a>
   <a href="https://zenn.dev/matsuda_tkm">
     <img src="https://badgen.org/img/zenn/matsuda_tkm/likes?style=plastic" alt="Likes" />
