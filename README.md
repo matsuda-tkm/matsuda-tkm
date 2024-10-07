@@ -29,8 +29,8 @@
     - 🌤️ Climate Physics Laboratory
     - 🌧️ Detecting Weather Front in the Asia-Pacific Resion Using Machine Learning
 - 🧑‍💻 AI Engineer
-    - 🏢 [Deepcraft](https://deepcraft.jp/) : Chief AI Engieer (Project Manager)
-    - 🏢 [AVILEN](https://avilen.co.jp/) : DS-Hub
+    - 🏢 [Deepcraft](https://deepcraft.jp/) (2023/12-) : Chief AI Engieer (Project Manager)
+    - 🏢 [AVILEN](https://avilen.co.jp/) (2022/5-) : DS-Hub
 - 👥 Community
     - 🤖 [KaiRA](https://kyoto-kaira.github.io/) : 4th Leader (2023-2024)
 - 📩 Contact
