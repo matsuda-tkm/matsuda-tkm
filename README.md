@@ -27,12 +27,12 @@
 
 - 🧑‍🎓 Kyoto University
     - 🌤️ Climate Physics Laboratory
-    - 🌧️ Detecting Weather Front in the Asia-Pacific Resion Using Machine Learning
+    - 🌧️ Towards Unified Standards for Global Front Estimation Using Deep Learning
 - 🧑‍💻 AI Engineer
-    - 🏢 [Deepcraft](https://deepcraft.jp/) (2023/12-) : Engieer Manager
+    - 🏢 [Deepcraft](https://deepcraft.jp/) (2023/12-) : Engieering Manager
     - 🏢 [AVILEN](https://avilen.co.jp/) (2022/5-) : DS-Hub
 - 👥 Community
-    - 🤖 [KaiRA](https://kyoto-kaira.github.io/) : 4th Leader (2023-2024)
+    - 🤖 [KaiRA](https://kyoto-kaira.github.io/) : 4th Leader (2023.4-2025.3)
 - 📩 Contact
     - <a href="https://x.com/matsuda_tkm"><img src="https://img.shields.io/badge/-@matsuda_tkm-000000.svg?logo=X&style=nginx"></a>
     - <img src="https://img.shields.io/badge/-LinkedIn-0A66C2.svg?logo=LinkedIn&style=nginx">
