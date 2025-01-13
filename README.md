@@ -29,7 +29,7 @@
     - 🌤️ Climate Physics Laboratory
     - 🌧️ Towards Unified Standards for Global Front Estimation Using Deep Learning
 - 🧑‍💻 AI Engineer
-    - 🏢 [Deepcraft](https://deepcraft.jp/) (2023/12-) : Engieering Manager
+    - 🏢 [Athena Technologies](https://athenatech.jp/) (2023/12-) : Engieering Manager
     - 🏢 [AVILEN](https://avilen.co.jp/) (2022/5-) : DS-Hub
 - 👥 Community
     - 🤖 [KaiRA](https://kyoto-kaira.github.io/) : 4th Leader (2023.4-2025.3)
