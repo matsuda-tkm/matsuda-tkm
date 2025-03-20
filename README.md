@@ -38,13 +38,16 @@
     - <img src="https://img.shields.io/badge/-LinkedIn-0A66C2.svg?logo=LinkedIn&style=nginx">
 - 📝 Article
     - <a href="https://qiita.com/matsuda_tkm"><img src="https://img.shields.io/badge/-Qiita-000000.svg?logo=Qiita&style=nginx"></a>
-    - <a href="https://zenn.dev/matsuda_tkm"><img src="https://img.shields.io/badge/-Zenn-000000.svg?logo=Zenn&style=nginx"></a> 
+    - <a href="https://zenn.dev/matsuda_tkm"><img src="https://img.shields.io/badge/-Zenn-000000.svg?logo=Zenn&style=nginx"></a>
+- 🛠️ Hackathon
+    - [Open Hack U 2025 OSAKA](https://hacku.yahoo.co.jp/hacku2025_osaka/) <a href="https://github.com/matsuda-tkm/DebugMaster"><img src="https://img.shields.io/badge/DebugMaster-Github-181717.svg?logo=github&style=plastic"></a>
 - 💪 Skills
     - Python (4 years)
-      - Numpy, Pandas, Scikit-learn, PyTorch, Flask, etc...
+      - Numpy, Pandas, Scikit-learn, PyTorch, Flask, Streamlit, etc...
     - AWS, Terraform (6 months)
       - Lambda, EC2, ECS on Fargate, SageMaker, S3, CloudWatch etc...
     - Git, Docker (1 year)
+    - HTML, CSS, Javascript (a little experience)
 
 [![My Skills](https://skillicons.dev/icons?i=py,pytorch,vscode,html,css,js,docker,git,github,latex,notion,apple,linux,windows,aws,terraform&perline=8)](https://skillicons.dev)
 
