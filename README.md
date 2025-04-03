@@ -36,6 +36,7 @@
 - 📩 Contact
     - <a href="https://x.com/matsuda_tkm"><img src="https://img.shields.io/badge/-@matsuda_tkm-000000.svg?logo=X&style=nginx"></a>
     - <img src="https://img.shields.io/badge/-LinkedIn-0A66C2.svg?logo=LinkedIn&style=nginx">
+    - <a href="https://www.wantedly.com/id/matsuda_tkm">Wantedly</a>
 - 📝 Article
     - <a href="https://qiita.com/matsuda_tkm"><img src="https://img.shields.io/badge/-Qiita-000000.svg?logo=Qiita&style=nginx"></a>
     - <a href="https://zenn.dev/matsuda_tkm"><img src="https://img.shields.io/badge/-Zenn-000000.svg?logo=Zenn&style=nginx"></a>
