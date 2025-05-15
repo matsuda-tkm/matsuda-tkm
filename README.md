@@ -28,8 +28,8 @@
 - 🧑‍🎓 Kyoto University
     - 🌤️ Climate Physics Laboratory
     - 🌧️ Towards Unified Standards for Global Front Estimation Using Deep Learning
-- 🧑‍💻 AI Engineer
-    - 🏢 [Athena Technologies](https://athenatech.jp/) (2023/12-) : Engieering Manager
+- 🧑‍💻 Career
+    - 🏢 [Athena Technologies](https://athenatech.jp/) (2023/12-) : Chief AI Engineer & Engieering Manager
     - 🏢 [AVILEN](https://avilen.co.jp/) (2022/5-) : DS-Hub
 - 👥 Community
     - 🤖 [KaiRA](https://kyoto-kaira.github.io/) : 4th Leader (2023.4-2025.3)
@@ -45,10 +45,10 @@
 - 💪 Skills
     - Python (4 years)
       - Numpy, Pandas, Scikit-learn, PyTorch, Flask, Streamlit, etc...
-    - AWS, Terraform (6 months)
+    - AWS, Terraform (1 year)
       - Lambda, EC2, ECS on Fargate, SageMaker, S3, CloudWatch etc...
-    - Git, Docker (1 year)
-    - HTML, CSS, Javascript (a little experience)
+    - Git, Docker (2 year)
+    - HTML, CSS, Javascript, TypeScript (a little experience)
 
 [![My Skills](https://skillicons.dev/icons?i=py,pytorch,vscode,html,css,js,docker,git,github,latex,notion,apple,linux,windows,aws,terraform&perline=8)](https://skillicons.dev)
 
