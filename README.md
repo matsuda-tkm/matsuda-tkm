@@ -25,9 +25,9 @@
 
 ### 👨🏻‍💻 About Me
 
-- 🧑‍🎓 Kyoto University
+- 🧑‍🎓 Kyoto University Graduate School of Science
     - 🌤️ Climate Physics Laboratory
-    - 🌧️ Towards Unified Standards for Global Front Estimation Using Deep Learning
+    - 🌧️ Front Detection Using Deep Learning
 - 🧑‍💻 Career
     - 🏢 [Athena Technologies](https://athenatech.jp/) (2023/12-) : Chief AI Engineer & Engieering Manager
     - 🏢 [AVILEN](https://avilen.co.jp/) (2022/5-) : DS-Hub
