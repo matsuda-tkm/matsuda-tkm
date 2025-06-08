@@ -6,9 +6,6 @@
   <a href="https://github.com/matsuda-tkm">
     <img height="20" src="https://komarev.com/ghpvc/?username=matsuda-tkm" />
   </a>
-  <a href="https://github.com/matsuda-tkm">
-    <img height="20" src="https://img.shields.io/github/followers/matsuda-tkm?label=followers&logo=github&style=flat" />
-  </a>
   <a href="https://qiita.com/matsuda_tkm">
     <img src="https://badgen.org/img/qiita/matsuda_tkm/contributions?style=plastic" alt="Contributions" />
   </a>
