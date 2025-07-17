@@ -39,6 +39,8 @@
     - <a href="https://zenn.dev/matsuda_tkm"><img src="https://img.shields.io/badge/-Zenn-000000.svg?logo=Zenn&style=nginx"></a>
 - 🛠️ Hackathon
     - [Open Hack U 2025 OSAKA](https://hacku.yahoo.co.jp/hacku2025_osaka/) <a href="https://github.com/matsuda-tkm/DebugMaster"><img src="https://img.shields.io/badge/DebugMaster-Github-181717.svg?logo=github&style=plastic"></a>
+- 🏆 Awards
+    - JpGU 2025: Outstanding Student Presentation Award [🔗](https://www.jpgu.org/publications/mailnews/20250711/)
 - 💪 Skills
     - Python (4 years)
       - Numpy, Pandas, Scikit-learn, PyTorch, Flask, Streamlit, etc...
