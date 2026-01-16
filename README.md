@@ -43,11 +43,11 @@
 - 🏆 Awards
     - JpGU 2025: Outstanding Student Presentation Award [🔗](https://www.jpgu.org/publications/mailnews/20250711/)
 - 💪 Skills
-    - Python (4 years)
+    - Python (5 years)
       - Numpy, Pandas, Scikit-learn, PyTorch, Flask, Streamlit, etc...
-    - AWS, Terraform (1 year)
+    - AWS, Terraform (2 year)
       - Lambda, EC2, ECS on Fargate, SageMaker, S3, CloudWatch etc...
-    - Git, Docker (2 year)
+    - Git, Docker (3 year)
     - HTML, CSS, Javascript, TypeScript (a little experience)
 
 [![My Skills](https://skillicons.dev/icons?i=py,pytorch,vscode,html,css,js,docker,git,github,latex,notion,apple,linux,windows,aws,terraform&perline=8)](https://skillicons.dev)
