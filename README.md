@@ -1,7 +1,5 @@
 ## Hi there 👋 I'm Matsuda Takumi
 
-![image](https://github.com/user-attachments/assets/6d1c183e-7e23-4d27-a319-fb2ea4618162)
-
 <p align="left">
   <a href="https://github.com/matsuda-tkm">
     <img height="20" src="https://komarev.com/ghpvc/?username=matsuda-tkm" />
